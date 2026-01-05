@@ -2,7 +2,7 @@
 SQL | Python | Power BI
 
 ## 📌 Objetivo
-Este projeto tem como objetivo analisar um funil de vendas digital, desde a primeira interação do usuário até a conversão em compra, identificando taxas de conversão, pontos de abandono e comportamento de receita.
+Este projeto tem como objetivo analisar o funil de vendas digital do Google Analytics do 1º Trismestre de 2017, desde a primeira interação do usuário até a conversão em compra, identificando taxas de conversão, pontos de abandono e comportamento de receita.
 
 O foco é demonstrar um fluxo completo de análise de dados, contemplando extração, preparação, modelagem e visualização dos dados.
 
