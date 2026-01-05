@@ -66,6 +66,8 @@ Ticket Médio por Visitante
 ## 📈 Dashboard
 O dashboard no Power BI apresenta:
 
+https://github.com/user-attachments/assets/98960010-2f01-491b-8f36-84046e3453f7
+
 KPIs principais para visão executiva
 Gráfico de funil de visitantes
 Análise de conversão por fonte de tráfego
