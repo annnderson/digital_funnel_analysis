@@ -58,10 +58,10 @@ Ticket Médio por Transação
 Ticket Médio por Visitante
 
 ## 🔍 Principais Insights
-Uma pequena parcela dos visitantes é responsável por grande parte da receita
-O funil apresenta quedas significativas entre etapas específicas
-A eficiência de monetização é mais impactada pelo valor do visitante do que apenas pelo volume
-Algumas fontes de tráfego apresentam alto RPV mesmo com menor taxa de conversão
+- Uma pequena parcela dos visitantes é responsável por grande parte da receita
+- O funil apresenta quedas significativas entre etapas específicas
+- A eficiência de monetização é mais impactada pelo valor do visitante do que apenas pelo volume
+- Algumas fontes de tráfego apresentam alto RPV mesmo com menor taxa de conversão
 
 ## 📈 Dashboard
 O dashboard no Power BI apresenta:
